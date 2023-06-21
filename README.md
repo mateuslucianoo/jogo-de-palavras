@@ -11,7 +11,6 @@ Este é um projeto simples que implementa o jogo da forca em Python. O objetivo 
 
 - Clone este repositório para o seu computador
 - Abra o terminal e navegue até a pasta do projeto
-- Execute o comando `python jogo_da_forca.py`
 
 ## Como jogar
 
